@@ -6,7 +6,7 @@ A ideia é entrar no site, tirar um print screen e fechá-lo. Não utilizar nenh
 
 Explicado isto, com certeza muitas referências à cores, fontes, margens, espaçamentos e tamanhos serão diferentes das utilizadas pelo site alvo, pois, utilizarei apenas a "intuição" como base para tal.
 
-É apenas um exercício pessoal para fins didáticos, imaginando como eu teria feito.
+É apenas um exercício pessoal para fins didáticos, imaginando como eu faria, podendo inclsuive fazer alterações que julgue necessário, sem necessidade de total fidalidade ao layout.
 
 # Requisitos
 
@@ -16,12 +16,16 @@ Explicado isto, com certeza muitas referências à cores, fontes, margens, espa�
 
 # LESS Google
 
-Site: www.google.com.br
-Página: Página Inicial
-Versão: 27/03/2020
+* Site: www.google.com.br
+* Página: Página Inicial
+* Versão: 27/03/2020
 
-Considerações:
+# Considerações:
 
 1. Para a logo do Google, utilizei a versão SVG disponível no site da Wikipedia.
 1. Fontes/ícones foram substituídos por texto ou desconsiderados.
 1. Como a base é apenas uma imagem (print screen) da versão desktop, criei uma versão responsiva da forma que imaginei que seria.
+
+# Preview do resultado
+
+<img src="./assets/img/less-google.png" />
